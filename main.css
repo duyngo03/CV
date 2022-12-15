@@ -31,7 +31,7 @@ a:active {
 
 #avatar {
     display: flex;
-    background-image: url("CV.jpg");
+    background-image: url("image/CV.jpg");
     background-color: none;
     height: 200px;
     width: 150px;
